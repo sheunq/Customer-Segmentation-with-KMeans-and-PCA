@@ -2,8 +2,9 @@
 
 ## Table of Content
 
-1.0 import library
-1.1 import Data
+### 1.0 import library
+
+### 1.1 import Data
 2.0  EDA
 3.0 Data Preprocessing
 4.0 Hirarchitical clustering
