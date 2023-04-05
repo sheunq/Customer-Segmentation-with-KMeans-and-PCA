@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-KMeans-and-PCA
+# Customer-Segmentation
 
 ## Table of Content
 
